@@ -1,0 +1,16 @@
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.exe
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.deps.json
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.runtimeconfig.json
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.dll
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ref\ancient_blocks.dll
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\bin\Debug\net5.0\ancient_blocks.pdb
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.dll
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ref\ancient_blocks.dll
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.pdb
+C:\Users\Alexander\Desktop\scripts\CSHARP\ancient_blocks\obj\Debug\net5.0\ancient_blocks.genruntimeconfig.cache
